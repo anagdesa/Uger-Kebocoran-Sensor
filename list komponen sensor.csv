@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U3",1," Arduino Uno R3"
+"T2",1," PNP Transistor (BJT)"
+"R5, R7",2,"1 kΩ Resistor"
+"D2",1,"Red LED"
+"R6",1,"27 kΩ Resistor"
+"S2, S3, S4, S5",4," Pushbutton"
+"R8",1,"240 Ω Resistor"
